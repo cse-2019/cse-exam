@@ -18,6 +18,6 @@
 
 # Installers
 
-- Windows:
+- Windows: https://git-scm.com/download/win
 - Linux:
 - macOS:
