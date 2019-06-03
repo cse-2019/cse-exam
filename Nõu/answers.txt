@@ -1,0 +1,8 @@
+1. 67 commits in total
+code: git rev-list --all --count
+
+2. 74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10) <body class="landing">
+code: git blame index.html
+
+3. Added travis config file
+code: git log
