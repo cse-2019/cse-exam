@@ -20,4 +20,4 @@
 
 - Windows:
 - Linux:
-- macOS:
+- macOS: https://git-scm.com/download/mac
