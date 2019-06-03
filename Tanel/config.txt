@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/TanelMarran/cse-exam.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[gui]
+	wmstate = normal
+	geometry = 1109x563+192+192 216 255
+[alias]
+	exam = rev-list --all --count
+
