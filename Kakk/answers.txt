@@ -1,0 +1,6 @@
+1. How many commits are in this repository (in total; in all branches)?
+33
+2. When was the line #10 in the file index.html last changed and who is the author of that commit?
+07.05.2018 Stepan Bolotnikov
+3. What is the commit message of the commit with the hash 865cbc8?
+Added travis config file.
