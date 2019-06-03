@@ -1,4 +1,4 @@
-# The Raven
+﻿# The Raven
 By Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered, weak and weary,
@@ -120,9 +120,9 @@ Leave my loneliness unbroken!—quit the bust above my _!
 Take thy beak from out my heart, and take thy form from off my _!”
 Quoth the Raven “Nevermore.”
 
-and the Raven, never flitting, still is sitting, still is sitting
-on the pallid bust of Pallas just above my chamber _;
-and his eyes have all the seeming of a demon’s that is dreaming,
-and the lamp-light o’er him streaming throws his shadow on the floor;
-and my soul from out that shadow that lies floating on the floor
-shall be lifted—nevermore!
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber _;
+And his eyes have all the seeming of a demon’s that is dreaming,
+And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+Shall be lifted—nevermore!
