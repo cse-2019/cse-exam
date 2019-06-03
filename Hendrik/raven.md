@@ -2,10 +2,17 @@
 By Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered, weak and weary,
+<<<<<<< HEAD
 over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
 as of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
+=======
+Over many a quaint and curious volume of forgotten lore—
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber _.
+“’Tis some visitor,” I muttered, “tapping at my chamber _—
+>>>>>>> 38_translations_new
 Only this and nothing more.”
 
 Ah, distinctly I remember it was in the bleak December;
@@ -18,20 +25,34 @@ Nameless here for evermore.
 And the silken, sad, uncertain rustling of each purple curtain
 Thrilled me—filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating
+<<<<<<< HEAD
 “’tis some visitor entreating entrance at my chamber door—
 some late visitor entreating entrance at my chamber door;—
+=======
+“’tis some visitor entreating entrance at my chamber _—
+Some late visitor entreating entrance at my chamber _;—
+>>>>>>> 38_translations_new
 This it is and nothing more.”
 
 Presently my soul grew stronger; hesitating then no longer,
 “Sir,” said I, “or Madam, truly your forgiveness I implore;
 But the fact is I was napping, and so gently you came rapping,
+<<<<<<< HEAD
 And so faintly you came tapping, tapping at my chamber door,
 that I scarce was sure I heard you”—here I opened wide the door;—
+=======
+And so faintly you came tapping, tapping at my chamber _,
+That I scarce was sure I heard you”—here I opened wide the _;—
+>>>>>>> 38_translations_new
 Darkness there and nothing more.
 
 Deep into that darkness peering, long I stood there wondering, fearing,
 Doubting, dreaming dreams no mortal ever dared to dream before;
+<<<<<<< HEAD
 but the silence was unbroken, and the stillness gave no token,
+=======
+But the silence was unbroken, and the stillness gave no token,
+>>>>>>> 38_translations_new
 And the only word there spoken was the whispered word, “Lenore?”
 This I whispered, and an echo murmured back the word, “Lenore!”—
 Merely this and nothing more.
@@ -45,7 +66,7 @@ Let my heart be still a moment and this mystery explore;—
 
 Open here I flung the shutter, when, with many a flirt and flutter,
 In there stepped a stately Raven of the saintly days of yore;
-Not the least obeisance made he; not a minute stopped or stayed he;
+Not the least obeisance made he; not a minute stopped or stayed he
 But, with mien of lord or lady, perched above my chamber door—
 Perched upon a bust of Pallas just above my chamber door—
 Perched, and sat, and nothing more.
@@ -116,13 +137,14 @@ Quoth the Raven “Nevermore.”
 “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
 “Get thee back into the tempest and the Night’s Plutonian shore!
 Leave no black plume as a token of that lie thy soul hath spoken!
+<<<<<<< HEAD
 Leave my loneliness unbroken!—quit the bust above my door!
 Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
-and the Raven, never flitting, still is sitting, still is sitting
-on the pallid bust of Pallas just above my chamber door;
-and his eyes have all the seeming of a demon’s that is dreaming,
-and the lamp-light o’er him streaming throws his shadow on the floor;
-and my soul from out that shadow that lies floating on the floor
-shall be lifted—nevermore!
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber door;
+And his eyes have all the seeming of a demon’s that is dreaming,
+And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+Shall be lifted—nevermore!
