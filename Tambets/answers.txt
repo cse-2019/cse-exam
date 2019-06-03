@@ -1,0 +1,11 @@
+1)
+Command: git rev-list --all --count
+Answer:  67
+
+2)
+Command: git blame index.html
+Answer: Stepan Bolotnikov 2018-05-07 19:17:18 +0300
+
+3)
+Command: git show 865cbc8
+Answer: "Added travis config file"
