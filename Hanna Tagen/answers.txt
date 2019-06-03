@@ -2,9 +2,12 @@
 V:  1  Hanna Tagen
     33  Stepan Bolotnikov
 
-    käsk: git shortlog -s
+    command: git shortlog -s
 
 2. When was the line #10 in the file index.html last changed and who is the author of that commit?
+V:  Author: Stepan Bolotnikov <stjoopa@gmail.com>
+    Date:   Mon May 7 19:17:18 2018 +0300
 
+    command: git log -u -L 10,10:./index.html
 
 3. What is the commit message of the commit with the hash 865cbc8?
