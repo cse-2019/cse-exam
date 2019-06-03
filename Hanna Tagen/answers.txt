@@ -11,3 +11,6 @@ V:  Author: Stepan Bolotnikov <stjoopa@gmail.com>
     command: git log -u -L 10,10:./index.html
 
 3. What is the commit message of the commit with the hash 865cbc8?
+A:  Added travis config file
+
+    command: git show 865cbc8
