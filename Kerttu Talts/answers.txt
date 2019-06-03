@@ -1,0 +1,7 @@
+1. How many commits are in this repository (in total; in all branches)?
+the answer: 67
+the command: git rev-list --all --count
+2. When was the line #10 in the file index.html last changed and who is the author of that commit?
+
+
+3. What is the commit message of the commit with the hash 865cbc8?
