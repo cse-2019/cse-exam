@@ -1,0 +1,4 @@
+1. total amount of commits:67
+2. it was last changed on May 7th by Stopa
+3. message: "Added travis config file"
+   
