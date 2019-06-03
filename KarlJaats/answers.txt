@@ -1,0 +1,8 @@
+1) git shortlog --all
+vastus: 67
+
+2) git blame index.html
+vastus: 2018-05-07 19:17:18 +0300, Stepan Bolotnikov
+
+3) git log
+vastus: Added travis config file
