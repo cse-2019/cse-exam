@@ -1,0 +1,12 @@
+1. 67 commits
+
+   git log --oneline --all
+
+2. Author: Stepan Bolotnikov, last changed: 2018-05-07 19:17:18 +0300
+
+   git blame index.html
+
+3. Added travis config file
+
+   git show 865cbc8
+
