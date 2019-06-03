@@ -2,6 +2,9 @@
 the answer: 67
 the command: git rev-list --all --count
 2. When was the line #10 in the file index.html last changed and who is the author of that commit?
-
+the answer: 74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10) <body class="landing">
+the command: git blame dev -L 10,10 -- index.html
 
 3. What is the commit message of the commit with the hash 865cbc8?
+the answer: Added travis config file
+the command: git log -n 1 --pretty=format:%s 865cbc8
