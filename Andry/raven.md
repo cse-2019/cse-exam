@@ -116,7 +116,7 @@ Quoth the Raven “Nevermore.”
 “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
 “Get thee back into the tempest and the Night’s Plutonian shore!
 Leave no black plume as a token of that lie thy soul hath spoken!
-Leave my loneliness unbroken!—quit the bust above my _!
+Leave my loneliness unbroken!—quit the bust above my door!
 Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
