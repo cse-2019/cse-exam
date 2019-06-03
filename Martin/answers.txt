@@ -1,0 +1,13 @@
+How many commits are in this repository (in total; in all branches)?
+In total there are 33 commits in branch dev;
+COMMAND: git rev-list --count dev 
+And there are 67 commits in all branches
+COMMAND: git rev-list --all --count
+
+When was the line #10 in the file index.html last changed and who is the author of that commit?
+74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 
+COMMAND: git blame index.html
+
+What is the commit message of the commit with the hash 865cbc8?
+865cbc8981d9eaba49d89e40e19ffc3de8babaca Added travis config file
+COMMAND:  git log --pretty=oneline 865cbc8
