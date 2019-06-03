@@ -1,0 +1,9 @@
+Questions
+1. dev branch 33 command: git rev-list --count dev
+   all branches 67  command: git rev-list --all --count
+
+2. Stepan Bolotnikov 2018-05-07 19:17:18 +0300
+command: git blame -L 10 index.html
+
+3. Added travis config file
+command: git show 865cbc8
