@@ -6,9 +6,9 @@
 
 # Hosting
 
-- Github:
-- Bitbucket:
-- Gitlab:
+- Github: https://github.com/
+- Bitbucket: https://bitbucket.org/
+- Gitlab: https://about.gitlab.com/
 
 # Clients
 
