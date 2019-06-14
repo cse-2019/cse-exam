@@ -4,10 +4,10 @@ green:
 yellow:
 circle:
 square:
-north:
-east:
-west:
-south:
+north: põhi
+east: ida
+west: lääs
+south: lõuna
 water:
 air:õhk
 wind:tuul
