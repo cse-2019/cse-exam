@@ -2,10 +2,12 @@
 By Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered, weak and weary,
-over many a quaint and curious volume of forgotten lore—
+Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
+
 as of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
+
 Only this and nothing more.”
 
 Ah, distinctly I remember it was in the bleak December;
@@ -18,8 +20,10 @@ Nameless here for evermore.
 And the silken, sad, uncertain rustling of each purple curtain
 Thrilled me—filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating
+
 “’tis some visitor entreating entrance at my chamber door—
 some late visitor entreating entrance at my chamber door;—
+
 This it is and nothing more.”
 
 Presently my soul grew stronger; hesitating then no longer,
@@ -31,7 +35,7 @@ Darkness there and nothing more.
 
 Deep into that darkness peering, long I stood there wondering, fearing,
 Doubting, dreaming dreams no mortal ever dared to dream before;
-but the silence was unbroken, and the stillness gave no token,
+But the silence was unbroken, and the stillness gave no token,
 And the only word there spoken was the whispered word, “Lenore?”
 This I whispered, and an echo murmured back the word, “Lenore!”—
 Merely this and nothing more.
@@ -120,9 +124,10 @@ Leave my loneliness unbroken!—quit the bust above my door!
 Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
-and the Raven, never flitting, still is sitting, still is sitting
-on the pallid bust of Pallas just above my chamber door;
-and his eyes have all the seeming of a demon’s that is dreaming,
-and the lamp-light o’er him streaming throws his shadow on the floor;
-and my soul from out that shadow that lies floating on the floor
-shall be lifted—nevermore!
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber _;
+And his eyes have all the seeming of a demon’s that is dreaming,
+And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+Shall be lifted—nevermore!
+
