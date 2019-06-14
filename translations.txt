@@ -2,8 +2,8 @@ red:
 blue:
 green:
 yellow:
-circle:
-square:
+circle: ring
+square: ruut
 north:
 east:
 west:
