@@ -19,5 +19,5 @@
 # Installers
 
 - Windows:
-- Linux:
+- Linux: https://git-scm.com/download/linux
 - macOS:
