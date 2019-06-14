@@ -1,8 +1,8 @@
 # VCS
 
-- Git:
-- Mercurial:
-- Subversion:
+- Git: https://git-scm.com/
+- Mercurial: https://www.mercurial-scm.org/
+- Subversion: https://www.mercurial-scm.org/
 
 # Hosting
 
