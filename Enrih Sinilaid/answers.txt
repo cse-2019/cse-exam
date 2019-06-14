@@ -1,0 +1,3 @@
+1) There were 82 commits;  git rev-list --all --remotes --count
+2) Last changes were made to line #10 in file index.html by Stepan Bolotnikov 2018-05-07 19:17:18; git blame -L 10,+1 -- index.html
+3) Message of commit 865cbc8 was "Added travis config file"
