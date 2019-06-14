@@ -1,0 +1,6 @@
+1. 80 commits, used command git rev-list --all --count
+
+2. It was changed by Stepan Bolotnikov on the 7th of May 2018 
+19:17:18 GMT +3
+
+3. Added travis config file
