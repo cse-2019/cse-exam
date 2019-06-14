@@ -1,0 +1,7 @@
+1.Using the command git rev-list --all --count
+  I got 81 branches in this repository across all branches
+
+2.index.html line 10 was lasted edited by Stopa on May 7, 2018
+
+3. Used the command git show <hash>
+The commit message was: "Added travis config file"
